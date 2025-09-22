@@ -33,7 +33,7 @@ In your package.json file, add the following:
   "version": "any",
   "description": "any",
   "main": "any",
-  "type": "module",  // <-- new line added
+  "type": "module",  // <- new line added
   "scripts": { }
 }
 ```
@@ -50,7 +50,6 @@ npm install --save-dev @eslint/js@latest @typescript-eslint/eslint-plugin@latest
 ```
 ### Using yarn
 ```bash
-Copiar código
 yarn add --dev @eslint/js@latest @typescript-eslint/eslint-plugin@latest @typescript-eslint/parser@latest eslint@latest globals@latest typescript@latest typescript-eslint@latest @stylistic/eslint-plugin@latest eslint-plugin-import@latest
 ```
 
