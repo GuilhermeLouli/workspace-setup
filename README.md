@@ -44,17 +44,12 @@ This setup uses both [ESLint](https://eslint.org) and [ESLint Stylistic](https:/
 
 Install the required dev dependencies for linting and TypeScript:
 
-### Using npm
 ```bash
 npm install --save-dev @eslint/js@latest @typescript-eslint/eslint-plugin@latest @typescript-eslint/parser@latest eslint@latest globals@latest typescript@latest typescript-eslint@latest @stylistic/eslint-plugin@latest eslint-plugin-import@latest
 ```
-### Using yarn
-```bash
-yarn add --dev @eslint/js@latest @typescript-eslint/eslint-plugin@latest @typescript-eslint/parser@latest eslint@latest globals@latest typescript@latest typescript-eslint@latest @stylistic/eslint-plugin@latest eslint-plugin-import@latest
-```
 
-# Step 3: Add the file `eslint.config.js` in your root folder
+# Step 3: Add the file [`eslint.config.js`](eslint.config.js) in your root folder
 
 This is the file containing all the rules for linting. For a detailed explanation of each rule, check [the ESLint rules guide](eslint-rules.md).
 
-Alternatively, you can check [ESLint](https://eslint.org/docs/latest/rules/) and [ESLint Stylistic](https://eslint.style/rules) directly.
+Alternatively, you can check [ESLint](https://eslint.org/docs/latest/rules/) and [ESLint Stylistic](https://eslint.style/rules) rules directly.
