@@ -1,11 +1,11 @@
 # workspace-setup
 __A step by step guide for:__
 
-UI changes to vscode to remove bloat;
+[UI changes to vscode to remove bloat](vscode-ui.md);
 
-Additional shortcuts to vscode;
+[Additional shortcuts to vscode](vscode-shortcuts.md);
 
-Eslint rule list for typescript;
+[Setup for Typescript and ESLint](typescript.md);
 
 # Step 0: If you do __not__ have a project started
 
