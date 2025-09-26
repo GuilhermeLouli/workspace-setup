@@ -6,3 +6,5 @@ __A step by step guide for:__
 [Additional shortcuts to vscode](vscode-shortcuts.md);
 
 [Setup for Typescript and ESLint](typescript.md);
+
+[Shortcuts and style changes for Git](git-shortcuts.md);
