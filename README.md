@@ -1,7 +1,7 @@
 # Workspace Setup
 __A step by step guide for:__
 
-[UI changes to vscode to remove bloat](vscode-ui.md);
+[UI changes to vscode to remove bloat](settings.md);
 
 [Additional shortcuts to vscode](vscode-shortcuts.md);
 
