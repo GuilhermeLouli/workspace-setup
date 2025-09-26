@@ -1,6 +1,28 @@
-# VS Code Custom Keybindings & Settings
+# VSCode Custom Keybindings
 
 This document lists useful VS Code keybindings and settings for customizing your workflow.
+
+<br/>
+
+## Step 0: Getting to keybindings.json
+
+Simply press __Ctrl+Shift+P__, then type __"Open Keyboard Shortcuts (JSON)'__.  
+If the file is empty, you need to add an array inside, before adding any shortcut.
+
+<br/>
+
+__keybinds.json__ example:
+```jsonc
+[
+  //your shortcuts go here
+]
+```
+
+<br/>
+
+## Adding shortcuts
+
+This is a list of useful shortcuts. If you need a list of all shortcuts, check [vs-code-default-keybindings](https://github.com/codebling/vs-code-default-keybindings).
 
 ### Collapse Explorer
 

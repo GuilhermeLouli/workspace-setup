@@ -236,6 +236,7 @@ Code compiles but user imports from src/index.js directly instead of dist.
 ✅ Correct:
 
 Project compiles even if node_modules types have internal issues.
+
 ❌ Wrong:
 
 Without this, TypeScript may throw errors inside libraries you don’t control.

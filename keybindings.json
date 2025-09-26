@@ -1,0 +1,19 @@
+[
+  {
+    "key": "ctrl+shift+alt+q",
+    "command": "workbench.files.action.collapseExplorerFolders",
+    "when": "explorerViewletVisible"
+  },
+  {
+    "key": "ctrl+alt+s",
+    "command": "workbench.action.files.saveWithoutFormatting"
+  },
+  // {
+  //   "key": "ctrl+tab",
+  //   "command": "workbench.action.nextEditor"
+  // },
+  // {
+  //   "key": "ctrl+shift+tab",
+  //   "command": "workbench.action.previousEditor"
+  // },
+]
